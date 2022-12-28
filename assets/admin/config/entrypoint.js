@@ -1,1 +1,1 @@
-export const ENTRYPOINT = "http://localhost:8000/api";
+export const ENTRYPOINT = "https://www.definitive.quantic-technologies.net/api";
